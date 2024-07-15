@@ -1,6 +1,5 @@
 # React-Todo-App
-- See the master branch.
-# Todo App
+
 
 This is a simple and interactive Todo App built with React. It consists of three main components: Forms, TodoList, and Todo.
 
